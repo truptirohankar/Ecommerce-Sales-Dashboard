@@ -13,4 +13,9 @@ Dashboard:
 Dataset :
 Used CSV file dataset
 
+Screenshot :
+
+![image alt](https://github.com/truptirohankar/Ecommerce-Sales-Dashboard/blob/f5ee3af82c58353be17bf0b3358e687e7dcea876/Screenshot_Ecommerce_dashboard-.png)
+
+
 
